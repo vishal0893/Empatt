@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\bin\Debug\net6.0\EmployeeAtnd.exe
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\bin\Debug\net6.0\EmployeeAtnd.deps.json
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\bin\Debug\net6.0\EmployeeAtnd.runtimeconfig.json
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\bin\Debug\net6.0\EmployeeAtnd.dll
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\bin\Debug\net6.0\EmployeeAtnd.pdb
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.dll
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\refint\EmployeeAtnd.dll
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.pdb
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\EmployeeAtnd.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\EmployeeAtndSol\EmployeeAtnd\obj\Debug\net6.0\ref\EmployeeAtnd.dll
